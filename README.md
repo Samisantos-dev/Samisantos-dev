@@ -1,16 +1,11 @@
-# 👨‍💻 Sami Santos
+<h1 align="center">👨‍💻 Sami Santos</h1>
+<h3 align="center"> Backend Developer | Java & Spring Boot ☕ </h3>
 
-<h3 align="center">
-  Backend Developer | Java & Spring Boot ☕
-</h3>
-
-<p align="center">
-  Building solutions, learning every day and turning ideas into code.
-</p>
+<p align="center"> Building solutions, learning every day and turning ideas into code. </p>
 
 <p align="center">
-  <a href="https://github.com/Samisantos-dev">
-    <img src="https://img.shields.io/badge/GitHub-Samisantos--dev-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/samisantts">
+    <img src="https://img.shields.io/badge/GitHub-samisantts-181717?style=for-the-badge&logo=github" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Backend%20Development-2563EB?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-Java-orange?style=for-the-badge&logo=openjdk" />
@@ -20,11 +15,9 @@
 
 ## 🚀 About Me
 
-Hello! I'm **Sami Santos**, a developer passionate about technology and software engineering.
+Hello! I'm Sami Santos, a Software Engineering student passionate about technology.
 
-Currently, I'm focused on **Backend Development**, building projects with Java and Spring Boot while continuously improving my programming skills.
-
-I enjoy learning how applications work behind the scenes, designing database relationships, implementing business logic and developing REST APIs.
+I'm focused on Backend Development, building applications with Java and Spring Boot while continuously improving my programming skills. I enjoy understanding how applications work behind the scenes, designing database relationships, implementing business logic and developing REST APIs.
 
 My goal is to transform knowledge into practical solutions and grow professionally as a Backend Developer.
 
@@ -32,49 +25,56 @@ My goal is to transform knowledge into practical solutions and grow professional
 
 ## ⚡ Tech Stack
 
+### ☕ Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,postgres,maven,git,github,idea" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
-**Currently exploring:**
-- REST API development
-- Object-Oriented Programming (OOP)
-- Spring Data JPA and Hibernate
-- Database modeling and relationships
-- DTOs, Mappers and Dependency Injection
-- Exception handling and data validation
+- **Java**, **Spring Boot**, **Spring Data JPA**, **OOP**
+
+### 🔌 APIs & Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+- **REST API**, **SQL**, **PostgreSQL**
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,maven,idea" />
+</p>
+
+- **Git & GitHub**, **Docker**, **Postman**, **Maven**, **IntelliJ IDEA**, **Claude Code**
+
+### 🤖 AI & LLMs
+- **Machine Learning**, **LLMs**, **Generative AI**, **AI Agents** (concepts)
+
+### ☁️ Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+- **AWS** (basic knowledge)
 
 ---
 
-## 💻 Featured Project
+## 📚 Currently Learning
 
-### 💰 Sistema de Controle Financeiro
-
-A personal financial management REST API developed with Java and Spring Boot.
-
-**Main features:**
-- User registration and authentication.
-- Monthly income management.
-- Expense registration and management.
-- Financial category management.
-- Entity relationships using JPA.
-- DTOs and Mappers for data transfer.
-- PostgreSQL database integration.
-- Data validation and exception handling.
-
-<p>
-  <a href="https://github.com/Samisantos-dev/SistemaDeControleFinanceiro">
-    <img src="https://img.shields.io/badge/VIEW%20PROJECT-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
+- Advanced Java concepts
+- Spring Boot and Backend architecture
+- REST API development
+- JPA and Hibernate
+- Database modeling and relationships
+- DTOs, Mappers and Dependency Injection
+- Docker and containerization
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Samisantos-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samisantos-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=samisantts&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samisantts&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -83,8 +83,4 @@ A personal financial management REST API developed with Java and Spring Boot.
 
 To become a skilled Backend Developer, build meaningful software solutions, and continuously improve through hands-on experience and lifelong learning.
 
----
-
-<p align="center">
-  <i>"Every line of code is another step forward."</i> 🚀
-</p>
+<p align="center"> <i>"Every line of code is another step forward."</i> 🚀 </p>
